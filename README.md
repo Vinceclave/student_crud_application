@@ -1,6 +1,6 @@
 # Student CRUD Application
 
-The Student CRUD Application is a Java-based project that allows an admin to manage student information through Create, Read, Update, and Delete (CRUD) operations.
+The Student CRUD Application is a Java-based project developed for a school project. It provides administrative functionality to manage student information through Create, Read, Update, and Delete (CRUD) operations.
 
 ## Installation
 
@@ -14,7 +14,7 @@ To run the Student CRUD Application, follow these steps:
 
 ## Usage
 
-1. Launch the application in your IDE or execute the compiled `.jar` file.
+1. Launch the application in your IDE 
 2. Log in using the admin credentials.
 3. Once logged in, you can perform the following operations:
 
@@ -31,19 +31,12 @@ To run the Student CRUD Application, follow these steps:
 
 ## Contributions
 
-Contributions to the Student CRUD Application project are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Open a pull request in this repository, explaining your changes.
+This project is developed for a school assignment and does not currently accept contributions from external sources.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is developed solely for educational purposes as part of a school project.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
-
+If you have any questions or inquiries regarding this school project, please feel free to contact me via [vinceclave9@gmail.com](mailto:vinceclave9@gmail.com).
